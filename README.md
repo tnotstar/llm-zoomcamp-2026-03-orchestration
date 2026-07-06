@@ -66,8 +66,6 @@ The non-RAG response about Kestra 1.1 features is best described as:
 #### Results
 ![Chat With RAG's Results](Question-2-RAG-Results.png)
 
-
-
 ## Question 3: Token usage — short summary
 
 Run `4_simple_agent.yaml` with `summary_length = short` (leave the other inputs as defaults).
@@ -100,7 +98,7 @@ Compare the `multilingual_agent` output token count to your result from Question
 - 10-20x more
 - 50x more
 
-> **Answer:**  2-5x more
+> **Answer #4:**  2-5x more
 
 #### Results
 ![Long Output Results](Question-4-Results.png)
@@ -118,7 +116,7 @@ Compare the `english_brevity` output token count to the original 1-sentence vers
 - 5-10x more
 - 10x+ more
 
-> **Answer:** 2-4x more
+> **Answer #5:** 2-4x more
 
 #### Flow
 ![Long 3 Sentences Flow](Question-5-Flow.png)
@@ -134,6 +132,9 @@ Based on what you learned in this module, for production workflows requiring det
 - Use traditional task-based workflows for predictability and auditability
 - Use only RAG without agents for better performance
 - Use web search tools exclusively to ensure current data
+
+> **Answer #6:** Use traditional task-based workflows for predictability and auditability
+
 
 ## Learning in Public
 
