@@ -118,6 +118,14 @@ Compare the `english_brevity` output token count to the original 1-sentence vers
 - 5-10x more
 - 10x+ more
 
+> **Answer:** 2-4x more
+
+#### Flow
+![Long 3 Sentences Flow](Question-5-Flow.png)
+
+#### Results
+![Long 3 Sentences Results](Question-5-Results.png)
+
 ## Question 6: Best Practices
 
 Based on what you learned in this module, for production workflows requiring deterministic, repeatable results with strict compliance requirements (e.g., financial reporting, workflows in highly regulated industries), which approach is most appropriate?
