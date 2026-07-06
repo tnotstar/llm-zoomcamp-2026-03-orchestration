@@ -31,11 +31,11 @@ After trying the same prompt in ChatGPT vs Kestra's AI Copilot, what is the prim
 
 ### ChatGPT Results:
 
-![Prompt in ChatGPT](Prompt-ChatGPT.png)
+![Prompt in ChatGPT](Question-1-ChatGPT.png)
 
 ### Kestra AI Copilot Results:
 
-![Prompt in Kestra Copilot](Prompt-Kestra-AICopilot.png)
+![Prompt in Kestra Copilot](Question-1-Kestra-AICopilot.png)
 
 ## Question 2: RAG vs No RAG
 
@@ -83,6 +83,13 @@ What is the approximate **output** token count for `multilingual_agent`?
 
 > **Answer #3:** 60-100 tokens
 
+### Flow
+
+#### Flow
+![Chat Without RAG's Flow](Question-3-Flow.png)
+
+#### Results
+![Chat Without RAG's Results](Question-3-Results.png)
 
 ## Question 4: Token usage — long summary
 
