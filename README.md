@@ -83,13 +83,11 @@ What is the approximate **output** token count for `multilingual_agent`?
 
 > **Answer #3:** 60-100 tokens
 
-### Flow
-
 #### Flow
-![Chat Without RAG's Flow](Question-3-Flow.png)
+![Flow](Question-3-Flow.png)
 
 #### Results
-![Chat Without RAG's Results](Question-3-Results.png)
+![Short Output Results](Question-3-Results.png)
 
 ## Question 4: Token usage — long summary
 
@@ -101,6 +99,11 @@ Compare the `multilingual_agent` output token count to your result from Question
 - 2-5x more
 - 10-20x more
 - 50x more
+
+> **Answer:**  2-5x more
+
+#### Results
+![Long Output Results](Question-4-Results.png)
 
 ## Question 5: Modifying a flow
 
