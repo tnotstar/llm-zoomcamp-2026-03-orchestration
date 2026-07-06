@@ -48,7 +48,7 @@ The non-RAG response about Kestra 1.1 features is best described as:
 - Empty — the model refuses to answer without context
 - Identical to the RAG version
 
-> **Answer #2: 
+> **Answer #2:** Vague, generic, or fabricated — the model guesses from training data
 
 ### Chat Without RAG
 
