@@ -48,6 +48,26 @@ The non-RAG response about Kestra 1.1 features is best described as:
 - Empty — the model refuses to answer without context
 - Identical to the RAG version
 
+> **Answer #2: 
+
+### Chat Without RAG
+
+#### Flow
+![Chat Without RAG's Flow](Question-2-Flow.png)
+
+#### Results
+![Chat Without RAG's Results](Question-2-Results.png)
+
+### Chat With RAG
+
+#### Flow
+![Chat With RAG's Flow](Question-2-RAG-Flow.png)
+
+#### Results
+![Chat With RAG's Results](Question-2-RAG-Results.png)
+
+
+
 ## Question 3: Token usage — short summary
 
 Run `4_simple_agent.yaml` with `summary_length = short` (leave the other inputs as defaults).
@@ -60,6 +80,9 @@ What is the approximate **output** token count for `multilingual_agent`?
 - 60-100 tokens
 - 200-400 tokens
 - 500+ tokens
+
+> **Answer #3:** 60-100 tokens
+
 
 ## Question 4: Token usage — long summary
 
